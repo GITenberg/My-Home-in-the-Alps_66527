@@ -1,11 +1,16 @@
 _repo: My-Home-in-the-Alps_66527
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66527-h/images/cover.jpg
 creator:
   author:
     agent_name: Blond, Elizabeth Alice le
     gutenberg_agent_id: '53852'
     url: http://www.gutenberg.org/2009/agents/53852
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66527#My-Home-in-the-Alps
 gutenberg_issued: '2021-10-13'
 identifiers:
   gutenberg: '66527'
